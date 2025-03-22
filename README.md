@@ -1,7 +1,6 @@
 # Eikonal
 Eikonal handson. Starting point provided by Prof. Formaggia Luca.
 
-&nbsp;
 | Student |
 |-------- |
 | [Capodanno Mario](https://github.com/MarioCapodanno) |
