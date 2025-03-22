@@ -1,12 +1,14 @@
 # Eikonal
 Eikonal handson. Starting point provided by Prof. Formaggia Luca.
 
-**Students**:
-- [Capodanno Mario]
-- [Grillo Valerio]
-- [Lovino Emanuele]
-- [Noventa Nicola]
-- [Severino Emanuele]
+&nbsp;
+| Student |
+|-------- |
+| [Capodanno Mario](https://github.com/MarioCapodanno) |
+| [Grillo Valerio](https://github.com/Valegrl) |
+| [Lovino Emanuele](https://github.com/EmanueleLovino) |
+| [Noventa Nicola](https://github.com/NicoNovi9) |
+| [Severino Emanuele](https://github.com/EmaSeve) |
 
 ## Introduction
 An Eikonal equation is a non-linear first-order partial differential equation 
